@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dreamofsuccessedu.github.io/dream-of-success/sitemap.xml
